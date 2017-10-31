@@ -94,6 +94,8 @@
   _Makes Laravel's `route:list` command available for use within the context of your Statamic site._ 
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
   _Add accordion interface to your fieldset sections._
+- [SimplePieRSS](https://github.com/mindmergedesign/simplepierss) by Juan Giraldo  
+  _RSS and Atom feed parsing addon for Statamic 2 based on Statamic SimplePie Plugin for Statamic 1_
 - [Sitemap](https://github.com/Marbles/statamic-sitemap) by Marbles  
   _Automatically add a sitemap to your website based on your published content_
 - [Snip-Snip](https://github.com/iDGS/Snip-Snip) adapted by iDGS  
